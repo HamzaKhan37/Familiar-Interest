@@ -10,8 +10,9 @@ This project analyzes data related to a Business Model Canvas (BMC) using machin
 
 1. Clone the repository to your local machine.
 2. Install the required dependencies using `pip install -r requirements.txt`.
-3. Run the Python script `main.py` to execute the code.
-4. The trained KMeans model will be saved as `model.pkl` in the project directory.
+3. Run the Python script `app.py` to execute the code.
+4. The Familiar.ipynb is the Procedure of Model Building through which the model is saved in pickle file and app.py is the Flask Representation by using the Pickle file
+5. The trained KMeans model will be saved as `model.pkl` in the project directory.
 
 ## Files Included
 
